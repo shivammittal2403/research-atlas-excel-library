@@ -1,0 +1,92 @@
+[
+  {
+    "number": 1,
+    "source": "10000_high_scope_psychology_research_topics.xlsx",
+    "slug": "psychology-research-topics-10000",
+    "title": "High-Scope Psychology Research Topics",
+    "description": "A structured portfolio of psychology research and invention opportunities.",
+    "totalRows": 10066,
+    "sheetCount": 5,
+    "sizeLabel": "1.0 MB"
+  },
+  {
+    "number": 2,
+    "source": "advanced_cybersecurity_research_topics_10000.xlsx",
+    "slug": "advanced-cybersecurity-topics-10000",
+    "title": "Advanced Cybersecurity Research Topics",
+    "description": "Advanced defensive cybersecurity research topics with India-focused testbeds.",
+    "totalRows": 10063,
+    "sheetCount": 5,
+    "sizeLabel": "1.3 MB"
+  },
+  {
+    "number": 3,
+    "source": "advanced_cybersecurity_research_topics_10000_unique.xlsx",
+    "slug": "advanced-cybersecurity-topics-10000-unique",
+    "title": "Advanced Cybersecurity Research Topics — Unique",
+    "description": "A deduplicated catalog of advanced cybersecurity research directions.",
+    "totalRows": 10066,
+    "sheetCount": 5,
+    "sizeLabel": "1.7 MB"
+  },
+  {
+    "number": 4,
+    "source": "cyber_psychology_patent_horizon_2034_100000.xlsx",
+    "slug": "cyber-psychology-patent-horizon-2034",
+    "title": "Cyber Psychology Patent Horizon 2034",
+    "description": "A large evidence and patent-contender library spanning cyber psychology through 2034.",
+    "totalRows": 100183,
+    "sheetCount": 12,
+    "sizeLabel": "18.8 MB"
+  },
+  {
+    "number": 5,
+    "source": "Cybersecurity_OSINT_Prior_Art_Corpus_900.xlsx",
+    "slug": "cybersecurity-osint-prior-art-900",
+    "title": "Cybersecurity OSINT Prior-Art Corpus",
+    "description": "An OSINT corpus for cybersecurity prior-art discovery and validation.",
+    "totalRows": 950,
+    "sheetCount": 5,
+    "sizeLabel": "0.6 MB"
+  },
+  {
+    "number": 6,
+    "source": "India_Social_Psychology_Experiments_300.xlsx",
+    "slug": "india-social-psychology-experiments-300",
+    "title": "India Social Psychology Experiments",
+    "description": "India-focused social psychology experiment concepts, ethics gates, and methods.",
+    "totalRows": 480,
+    "sheetCount": 9,
+    "sizeLabel": "0.1 MB"
+  },
+  {
+    "number": 7,
+    "source": "MITRE Multi-Matrix Red Team Research 47667.xlsx",
+    "slug": "mitre-multi-matrix-red-team-47667",
+    "title": "MITRE Multi-Matrix Red Team Research",
+    "description": "MITRE ATT&CK technique, red-team, and research-paper mappings across matrices.",
+    "totalRows": 51302,
+    "sheetCount": 7,
+    "sizeLabel": "7.3 MB"
+  },
+  {
+    "number": 8,
+    "source": "mitre_attack_red_team_research_27867 (1).xlsx",
+    "slug": "mitre-attack-red-team-27867-copy",
+    "title": "MITRE ATT&CK Red Team Research — Copy",
+    "description": "MITRE ATT&CK technique and paper mappings retained as a separate source workbook.",
+    "totalRows": 30000,
+    "sheetCount": 6,
+    "sizeLabel": "4.2 MB"
+  },
+  {
+    "number": 9,
+    "source": "mitre_attack_red_team_research_27867.xlsx",
+    "slug": "mitre-attack-red-team-27867",
+    "title": "MITRE ATT&CK Red Team Research",
+    "description": "MITRE ATT&CK technique and paper mappings for authorized defensive research.",
+    "totalRows": 30000,
+    "sheetCount": 6,
+    "sizeLabel": "4.2 MB"
+  }
+]
